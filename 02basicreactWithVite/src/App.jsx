@@ -1,10 +1,11 @@
+import Custom from "./custom";
 
 function App() {
 
   return (
   
-      <h1> self learning reat with Vite + React</h1>     
-
+      <><h1> self learning reat with Vite + React</h1>
+      <Custom></Custom></>
   );
 }
 
